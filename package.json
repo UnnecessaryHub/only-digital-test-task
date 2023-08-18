@@ -1,36 +1,53 @@
 {
-  "name": "dates-app",
+  "name": "only-digital-test-task",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development webpack-dev-server",
-    "build": "cross-env NODE_ENV=production webpack"
+    "dev": "dotenv -e .env.development webpack serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nerman91/dates-app.git"
+    "url": "git@github.com:UnnecessaryHub/only-digital-test-task.git"
   },
-  "author": "",
+  "author": "Gearonix egor.uzhanin@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nerman91/dates-app/issues"
+    "url": "https://github.com/UnnecessaryHub/only-digital-test-task"
   },
-  "homepage": "https://github.com/nerman91/dates-app#readme",
+  "homepage": "https://github.com/UnnecessaryHub/only-digital-test-task",
   "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.22.10",
+    "@babel/plugin-transform-typescript": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "@types/babel__plugin-transform-runtime": "^7",
+    "@types/babel__preset-env": "^7",
+    "@types/node": "^20.5.0",
     "@types/react": "^18.0.35",
     "@types/react-dom": "^18.0.11",
+    "@types/webpack": "^5.28.1",
+    "@types/webpack-bundle-analyzer": "^4",
+    "babel-loader": "^9.1.3",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^11.0.0",
     "cross-env": "^7.0.3",
-    "css-loader": "^6.7.3",
+    "css-loader": "^6.8.1",
+    "css-modules-typescript-loader": "^4.0.1",
+    "dotenv": "^16.3.1",
+    "eslint-config-gearonix": "^1.0.3",
+    "eslint-plugin-prefer-arrow": "^1.2.3",
+    "file-loader": "^6.2.0",
     "filemanager-webpack-plugin": "^8.0.0",
-    "html-webpack-plugin": "^5.5.0",
+    "html-webpack-plugin": "^5.5.3",
+    "mini-css-extract-plugin": "^2.7.6",
     "sass": "^1.62.0",
     "sass-loader": "^13.2.2",
-    "style-loader": "^3.3.2",
+    "style-loader": "^3.3.3",
     "ts-loader": "^9.4.2",
+    "ts-node": "^10.9.1",
     "typed-scss-modules": "^7.1.0",
-    "typescript": "^5.0.4",
+    "typescript": "^5.1.6",
     "webpack": "^5.79.0",
+    "webpack-bundle-analyzer": "^4.9.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.13.2"
   },
