@@ -22,7 +22,8 @@ yarn run dev
 
 ### Проекты с похожим функционалом
 1. [Проект с крутым webpack конфигом и кастомными плагинами](https://github.com/Gearonix/Ulbi-Production)
-2. [CodeGear](https://github.com/Gearonix/CodeGear)
-3. [Pixel playground](https://github.com/Gearonix/vuejs-pixel-playground/tree/master/apps/client/src)
+2. [CodeGear - Онлайн редактор кода](https://github.com/Gearonix/CodeGear)
+3. [Проект на Next.js, Redux, Redux saga и Scss Modules](https://github.com/Gearonix/Adonis-Ecommerce/tree/master/packages/client)
+4. [Pixel playground - приложение для продажи игровых дисков](https://github.com/Gearonix/vuejs-pixel-playground/tree/master/apps/client/src)
 ---
 
