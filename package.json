@@ -2,8 +2,16 @@
   "name": "only-digital-test-task",
   "version": "1.0.0",
   "description": "",
+  "packageManager": "yarn@3.6.1",
+  "engines": {
+    "node": ">=16.0.0",
+    "yarn": ">=3.2.0"
+  },
   "scripts": {
-    "dev": "dotenv -e .env.development webpack serve"
+    "dev": "dotenv -e .env.development webpack serve",
+    "build": "dotenv -e .env.production webpack",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -39,6 +47,7 @@
     "eslint-plugin-prefer-arrow": "^1.2.3",
     "file-loader": "^6.2.0",
     "filemanager-webpack-plugin": "^8.0.0",
+    "gh-pages": "^6.0.0",
     "html-webpack-plugin": "^5.5.3",
     "mini-css-extract-plugin": "^2.7.6",
     "sass": "^1.62.0",

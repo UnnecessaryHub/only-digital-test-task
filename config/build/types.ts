@@ -13,8 +13,3 @@ export interface BuildOptions {
   port: number
   isDev: boolean
 }
-
-export interface BuildEnv {
-  mode: BuildMode
-  port: number
-}

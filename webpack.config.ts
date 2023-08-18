@@ -1,11 +1,11 @@
 import { resolve } from 'path'
 
-import { BuildEnv, BuildPaths, buildWebpackConfig } from './config/build'
+import { BuildMode, BuildPaths, buildWebpackConfig } from './config/build'
 
 // eslint-disable-next-line import/no-anonymous-default-export
-export default (env: BuildEnv) => {
-  const mode = env?.mode || 'development'
-  const port = env?.port || 3000
+export default () => {
+  const mode: BuildMode = (process.env.NODE_ENV as BuildMode) ?? 'development'
+  const port = Number(process.env.PORT ?? 3000)
   const isDev = mode === 'development'
 
   const paths: BuildPaths = {
