@@ -5,6 +5,11 @@
   gap: 60px;
   width: 100%;
 
+  @media screen and (max-width: 420px) {
+    font-size: 130px;
+    width: 72%;
+  }
+
   .year {
     margin: 0;
     font-family: 'PT Sans';

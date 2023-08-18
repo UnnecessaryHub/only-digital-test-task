@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 
-export const useCounter = (value: number, prewValue: number): number => {
-  const [counter, setCounter] = useState(prewValue)
+export const useCounter = (value: number, pastValue: number): number => {
+  const [counter, setCounter] = useState(pastValue)
   const duration = 15
 
   useEffect(() => {

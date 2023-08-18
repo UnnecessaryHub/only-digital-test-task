@@ -4,24 +4,49 @@ export const events = [
     isActive: false,
     list: [
       {
-        year: 2009,
+        year: 2015,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
       },
       {
-        year: 1969,
+        year: 2020,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 1956,
+        year: 2021,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       },
       {
-        year: 1980,
+        year: 2022,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
+      },
+      {
+        year: 2023,
+        event:
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
+      },
+      {
+        year: 2024,
+        event:
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
+      },
+      {
+        year: 2025,
+        event:
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
+      },
+      {
+        year: 2026,
+        event:
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
+      },
+      {
+        year: 2050,
+        event:
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       }
     ]
   },
@@ -30,34 +55,54 @@ export const events = [
     isActive: false,
     list: [
       {
-        year: 1978,
+        year: 2040,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 1994,
+        year: 2041,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       },
       {
-        year: 2000,
+        year: 2042,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
       },
       {
-        year: 1934,
+        year: 2043,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 1989,
+        year: 2045,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       },
       {
-        year: 2011,
+        year: 2049,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
+      },
+      {
+        year: 2050,
+        event:
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
+      },
+      {
+        year: 2060,
+        event:
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
+      },
+      {
+        year: 2070,
+        event:
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
+      },
+      {
+        year: 2080,
+        event:
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       }
     ]
   },
@@ -67,29 +112,54 @@ export const events = [
     isActive: false,
     list: [
       {
-        year: 1993,
+        year: 2060,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 1990,
+        year: 2070,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       },
       {
-        year: 1999,
+        year: 2080,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
       },
       {
-        year: 2001,
+        year: 2081,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 2016,
+        year: 2082,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
+      },
+      {
+        year: 2083,
+        event:
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
+      },
+      {
+        year: 2084,
+        event:
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
+      },
+      {
+        year: 2085,
+        event:
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
+      },
+      {
+        year: 2086,
+        event:
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
+      },
+      {
+        year: 2087,
+        event:
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       }
     ]
   },
@@ -99,29 +169,29 @@ export const events = [
     isActive: false,
     list: [
       {
-        year: 2006,
+        year: 2088,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 1988,
+        year: 2089,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       },
       {
-        year: 2001,
+        year: 2090,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
       },
       {
-        year: 1988,
+        year: 2091,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 2019,
+        year: 2092,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       }
     ]
   },
@@ -131,29 +201,29 @@ export const events = [
     isActive: false,
     list: [
       {
-        year: 2000,
+        year: 2093,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 1993,
+        year: 2094,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       },
       {
-        year: 2008,
+        year: 2095,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
       },
       {
-        year: 2009,
+        year: 2096,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 2017,
+        year: 2097,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       }
     ]
   },
@@ -163,34 +233,29 @@ export const events = [
     isActive: false,
     list: [
       {
-        year: 1989,
+        year: 2100,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 1980,
+        year: 2105,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       },
       {
-        year: 2003,
+        year: 2106,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          '13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды'
       },
       {
-        year: 2001,
+        year: 2107,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Телескоп «Хаббл» обнаружил самую удалённую из всех обнаруженных галактик, получившую обозначение GN-z11'
       },
       {
-        year: 2010,
+        year: 2108,
         event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
-      },
-      {
-        year: 1998,
-        event:
-          'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, praesentium omnis assumenda rem dolorum impedit consectetur ex suscipit asperiores, aliquid optio temporibus laudantium laborum autem.'
+          'Компания Tesla официально представила первый в мире электрический грузовик Tesla Semi'
       }
     ]
   }

@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import classNames from 'classnames'
+import cn from 'classnames'
 
 import { EventsContext } from '@/app/providers/event-provider'
 import { useCounter } from '@/shared/hooks'
@@ -13,8 +13,8 @@ export const TimePeriod = () => {
 
   return (
     <div className={styles.timePeriod}>
-      <p className={classNames(styles.minYear, styles.year)}>{countMinYear}</p>
-      <p className={classNames(styles.maxYear, styles.year)}>{countMaxYear}</p>
+      <p className={cn(styles.minYear, styles.year)}>{countMinYear}</p>
+      <p className={cn(styles.maxYear, styles.year)}>{countMaxYear}</p>
     </div>
   )
 }
