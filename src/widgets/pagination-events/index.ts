@@ -1,0 +1,1 @@
+export { PaginationEvents } from './view'

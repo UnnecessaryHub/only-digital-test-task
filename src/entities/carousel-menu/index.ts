@@ -1,0 +1,1 @@
+export { CarouselMenu } from './view'

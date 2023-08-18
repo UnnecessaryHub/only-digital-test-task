@@ -1,0 +1,1 @@
+export { AnimateMenu } from './view'
