@@ -20,7 +20,7 @@ const babelLoader = ({ isTsx }: BabelLoaderOptions) => {
       loader: 'babel-loader',
       options: {
         cacheDirectory: true,
-        presets: ['@babel/preset-env'],
+        presets: ['@babel/preset-env', '@babel/preset-react'],
         plugins: babelPlugins
       }
     }
